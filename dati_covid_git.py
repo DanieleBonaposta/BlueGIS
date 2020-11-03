@@ -5,6 +5,8 @@
 # http://guide.debianizzati.org/index.php/Utilizzo_del_servizio_di_scheduling_Cron
 # https://stackoverflow.com/questions/8727935/execute-python-script-via-crontab
 
+# versione per github
+
 import os, glob
 import datetime
 from datetime import date, timedelta
